@@ -1,1 +1,1 @@
-Check the wiki page for more information.
+Check the wiki (https://github.com/arezae/farsi/wiki) page for more information.
